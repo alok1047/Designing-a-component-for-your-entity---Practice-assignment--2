@@ -24,5 +24,18 @@
     "eslint-plugin-react-refresh": "^0.4.16",
     "globals": "^15.14.0",
     "vite": "^6.0.7"
-  }
+  },
+  "description": "Assume you are developing an ecommers platfrom you need to display all of your products on home page.Now you need to prepare an product cart to display the details of the product.",
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alok1047/Designing-a-component-for-your-entity---Practice-assignment--2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alok1047/Designing-a-component-for-your-entity---Practice-assignment--2/issues"
+  },
+  "homepage": "https://github.com/alok1047/Designing-a-component-for-your-entity---Practice-assignment--2#readme"
 }
